@@ -1,6 +1,7 @@
 # third_app
 
 A new Flutter project.
+Firts time make an app using flutter. And in this app, i've learn about make a popup.
 
 ## Getting Started
 
